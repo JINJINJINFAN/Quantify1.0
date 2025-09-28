@@ -127,9 +127,6 @@ pip install requests
 #### 25日实战收益
 ![收益图](https://s3.ax1x.com/2021/02/01/yVzytA.jpg)
 
-
-![币圈快讯爬取群](https://s3.ax1x.com/2021/02/01/yZSU4s.jpg)
-![钉钉群二维码](https://i0.hdslb.com/bfs/album/4f50bfd7f1fddaa7c340bc06d7ce078404670fb2.jpg)
 ### 钉钉设置教程
 ![钉钉设置教程](https://s3.ax1x.com/2021/01/08/suMVIK.png)
 
